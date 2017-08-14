@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-      <project path="device/xiaomi/land" name="XiaomiLandOSS/android_device_xiaomi_land" remote="private" revision="cm-14.1" />
-      <project path="kernel/xiaomi/msm8937" name="XiaomiLandOSS/android_kernel_xiaomi_msm8937" remote="private" revision="cm-14.1" />
-      <project path="vendor/xiaomi/land" name="XiaomiLandOSS/android_vendor_xiaomi_land" remote="private" revision="cm-14.1" />
+      <project path="device/xiaomi/land" name="XiaomiLandOSS/android_device_xiaomi_land" remote="private" revision="cm-14.1-dev" />
+      <project path="kernel/xiaomi/msm8937" name="XiaomiLandOSS/android_kernel_xiaomi_msm8937" remote="private" revision="cm-14.1-dev" />
+      <project path="vendor/xiaomi/land" name="XiaomiLandOSS/android_vendor_xiaomi_land" remote="private" revision="cm-14.1-dev" />
       <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
 </manifest>
